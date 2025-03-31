@@ -8,9 +8,9 @@ export const DATA = {
   location: "Chennai, Tamil Nadu, India",
   locationLink: "https://www.google.com/maps/place/Chennai",
   description:
-    "Full-Stack Developer and AI Enthusiast. Passionate about building scalable solutions and leveraging AI for innovation. Actively exploring new technologies.",
+    "Full-Stack Developer, AI Enthusiast, No-Code & Low-Code Expert. Passionate about building scalable solutions using modern technologies and AI. Specializing in WordPress, Webflow, Shopify, and headless CMS for seamless and efficient web development.",
   summary:
-    "Currently pursuing a degree in Electronics and Communication Engineering, I am a full-stack developer passionate about AI-powered solutions and scalable web apps. I’ve interned at top tech firms, built AI-driven projects, and earned certifications in cloud computing and machine learning. I thrive on using technology to enhance accessibility and efficiency.",
+    "Currently pursuing a degree in Electronics and Communication Engineering, I am a full-stack developer and a no-code/low-code expert specializing in WordPress, Webflow, and Shopify. With experience in AI-powered solutions, scalable web apps, and CMS development, I have built and optimized digital platforms for various industries. I’ve interned at top tech firms, developed AI-driven applications, and hold certifications in cloud computing, automation, and web development. My passion lies in leveraging no-code and low-code tools to accelerate digital transformation and enhance user experiences.",
   avatarUrl: "/me.png",
   skills: [
     "HTML",
